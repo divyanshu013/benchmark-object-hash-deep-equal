@@ -1,7 +1,7 @@
 const fs = require("fs");
 const hash = require("object-hash");
 
-const SIZE = 100;
+const SIZE = 10;
 
 // just some random shit
 const data = Array(SIZE)
